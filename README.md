@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI research and UX Research or UX design
 - 🌱 I’m currently studying computer science and UX
 - 💞️ I’m looking to collaborate on Computer vision
-- 👩‍💻 Visit my protoflio website https://www.farjanachadni.com/
+- 👩‍💻 Visit my website https://www.farjanachadni.com/
 - 📫 How to reach me https://www.linkedin.com/in/farjana-chadni/
 
 <!---
