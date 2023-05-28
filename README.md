@@ -12,9 +12,8 @@ Hello, fellow developers and learners! I'm Farjana Chadni, with a background in 
 <h6 align="left">Connect with me:</h6>
 <p align="left"> <a href= "www.linkedin.com/in/farjanachadni">Linkedln</a></p>
 <p align="left"> <a href= "https://www.farjanachadni.com/">Protfolio Website</a></p>
-<hr></hr>
 
-<h3 align="left">Tech</h3>
+<h1 align="left">Tech</h1>
 <h6 align="left">Programming Languages</h6>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img 
@@ -69,9 +68,51 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 </a>
 </p>
 
-<hr></hr>
-
+<h1 align="left">Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fchadni&show_icons=true&locale=en&layout=compact" alt="fchadni" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fchadni&show_icons=true&locale=en" alt="fchadni" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fchadni&show_icons=true&locale=en" alt="fchadni" /></p>
- -->
+<h1 align="left">Relevent courses</h1>
+<h3>Computer Science</h3>
+<p>Intro to Engineering Design(EGR 100)</p>
+<p>Intro to Programming I(CSE 231)</p>
+<p>Intro to Programming II(CSE 232)</p>
+<p>Discrte Math(CSE 260)</p>
+<p>Linear and Matrix Algebra(MTH 314)</p>
+<p>Data Structures and Algorithms(CSE 331)</p>
+<p>Computer Orginization and architecture(CSE 320)</p>
+<p>Algorithm Engineering(CSE 431)</p>
+<p>Mobile app development(CSE 476)</p>
+<p>Web app architecture & development(CSE 477)</p>
+<p>mobile app development(CSE 476)</p>
+<p>Computer Systems(CSE 325)</p>
+<p>Object-Oriented Software Development(CSE 335)</p>
+
+<h3>Information Science</h3>
+<p>Methods for understanding users(MI 220)</p>
+<p>Interactive prototyping(MI 420)</p>
+<p>Media and information research(MI )</p>
+<p>Network management & security(MI 361)</p>
+<p>advanced web dev & database(MI 449)</p>
+
+<h3>Experience Architecture</h3>
+<p>Researching experience(XA)</p>
+<p>Interaction design(XA)</p>
+<p>Experimental design practices(XA)</p>
+<p>Reasoning & argumentation(XA)</p>
+<p>IOS Lab(WRA)</p>
+
+<h3>Other Courses</h3>
+<p>Cell and Molecular Biology(BS 161)</p>
+<p>Organismal and Population Biology(BS 162)</p>
+<p>Organismal Biology Lab(BS 171)</p>
+<p>Principles of Chemistry I(CEM 151)</p>
+<p>Chemistry Laboratory 1(CEM 161)</p>
+<p>Introductory Physics I(PHY 231)</p>
+<p>Physics for Scientists and Engineers II(PHY 184)</p>
+<p>Calculus II(MTH 133)</p>
+<p>Introduction to Finance(FI 320)</p>
+<p>Survey of Accounting Concepts(ACC 230)</p>
+<p>Introduction to Microeconomics(EC 201)</p>
+<p>Class Instruc Elem Piano I(MUS 147)</p>
+
