@@ -1,15 +1,9 @@
-- 👋 Hi, I’m @FChadni
-- 👀 I’m interested in NLP
-- 🌱 I’m currently studying computer science and UX
-- 💞️ I’m looking to collaborate ai projects
-- 👩‍💻 Visit my website https://www.farjanachadni.com/
-- 📫 How to reach me https://www.linkedin.com/in/farjana-chadni/
-
 <!---
 FChadni/FChadni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Farjana Chadni</h1>
+<h1 align="center">👋, I'm Farjana Chadni</h1>
+<p>I'm [Your Name], a passionate advocate for the transformative power of education. With a diverse background spanning computer science, experience architecture (UX), and information science, my unwavering commitment lies in creating accessible and simplified learning experiences</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fchadni&label=Profile%20views&color=0e75b6&style=flat" alt="fchadni" /> </p>
 
