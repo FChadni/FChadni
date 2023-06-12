@@ -16,15 +16,13 @@ Hello, fellow developers and learners! I'm Farjana Chadni, with a background in 
 <h1 align="left">Tech</h1>
 <h6 align="left">Programming Languages</h6>
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
@@ -68,15 +66,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fchadni&show_icons=true&locale=en&layout=compact" alt="fchadni" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fchadni&show_icons=true&locale=en" alt="fchadni" /></p>
 
-<h1 align="left">Relevent courses</h1>
+<h1 align="left">Courses</h1>
 <h3>Computer Science</h3>
 <p>Intro to Engineering Design(EGR 100)</p>
 <p>Intro to Programming I(CSE 231)</p>
 <p>Intro to Programming II(CSE 232)</p>
-<p>Discrte Math(CSE 260)</p>
+<p>Discrete Math(CSE 260)</p>
 <p>Linear and Matrix Algebra(MTH 314)</p>
 <p>Data Structures and Algorithms(CSE 331)</p>
-<p>Computer Orginization and architecture(CSE 320)</p>
+<p>Computer Organization and architecture(CSE 320)</p>
 <p>Algorithm Engineering(CSE 431)</p>
 <p>Mobile app development(CSE 476)</p>
 <p>Web app architecture & development(CSE 477)</p>
@@ -85,18 +83,18 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/c
 <p>Object-Oriented Software Development(CSE 335)</p>
 
 <h3>Information Science</h3>
-<p>Methods for understanding users(MI 220)</p>
-<p>Interactive prototyping(MI 420)</p>
-<p>Media and information research(MI )</p>
-<p>Network management & security(MI 361)</p>
-<p>advanced web dev & database(MI 449)</p>
+<p>Methods for understanding users</p>
+<p>Interactive prototyping</p>
+<p>Media and information research</p>
+<p>Network management & security</p>
+<p>advanced web dev & database</p>
 
 <h3>Experience Architecture</h3>
-<p>Researching experience(XA)</p>
-<p>Interaction design(XA)</p>
-<p>Experimental design practices(XA)</p>
-<p>Reasoning & argumentation(XA)</p>
-<p>IOS Lab(WRA)</p>
+<p>Researching experience</p>
+<p>Interaction design</p>
+<p>Experimental design practices</p>
+<p>Reasoning & argumentation</p>
+<p>IOS Lab</p>
 
 <h3>Other Courses</h3>
 <p>Cell and Molecular Biology(BS 161)</p>
